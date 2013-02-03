@@ -13,7 +13,7 @@ It doesn't crash but these are annoying messages. Also, they don't appear *every
 
 Using:
 
-RubyMotion 1.32
-XCode: 4.6
-iOS Simulator 6.1
-SDK 6.1
+* RubyMotion 1.32
+* XCode: 4.6
+* iOS Simulator 6.1
+* SDK 6.1
